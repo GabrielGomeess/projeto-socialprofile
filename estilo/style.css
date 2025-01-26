@@ -36,17 +36,17 @@ section{
 
     transform: translate(-50%,-50%);
 
-    width: 320px;
+    width: 370px;
     background-color: var(--cor02);
     display: flex;
     flex-direction: column;
     align-items: center;
     border-radius: 10px;   
-    padding: 20px 20px 30px; 
+    padding: 20px 20px 35px; 
 }
 
 section img{
-    width: 70px;
+    width: 85px;
     border-radius: 50%;
     padding: 10px;
 }
@@ -75,7 +75,7 @@ div.links{
     display: flex;
     flex-direction: column;
     gap: 15px;
-    width: 280px;
+    width: 330px;
   
 }
 
@@ -83,7 +83,7 @@ div.links >a{
     display: flex;
     justify-content: center;
     border-radius: 10px;
-    padding: 10px;
+    padding: 15px;
 
     background-color: var(--cor01);
     font-family: var(--fonte-texto);
